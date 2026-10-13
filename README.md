@@ -1,1 +1,3 @@
 # draft-fixer-self-test
+
+Regression run, Night 1 (UTC 2026-10-13), Draft Fixer v20 (5a1d305).

@@ -1,3 +1,3 @@
 export function sum(values) {
-  return values.reduce((total, value) => total + value * 2, 0);
+  return values.reduce((total, value) => total + value, 0);
 }
